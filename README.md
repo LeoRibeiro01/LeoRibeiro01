@@ -25,12 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leo&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo&layout=compact&theme=dracula)  
-
----
-
 ## 🌎 Conecte-se comigo  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leoribx/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-farias-ribeiro-396977284)  
