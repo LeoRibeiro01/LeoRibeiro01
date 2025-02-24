@@ -27,8 +27,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leoribx/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-farias-ribeiro-396977284)  
 
-🚀 Sempre aberto a novas conexões, desafios e oportunidades!  
-
----
-
-curtiu as mudanças ou quer ajustar mais alguma coisa?
+🚀 Sempre aberto a novas conexões, desafios e oportunidades!
