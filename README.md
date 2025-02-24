@@ -2,8 +2,8 @@
 
 🚀 Desenvolvedor apaixonado por tecnologia, inovação e performance!  
 📍 Trabalho na InfoTech - Soluções em Tecnologia  
-📚 Estudante do curso de Técnico em Tecnologia da Informação no **IFPR - Paranaguá**  
-🎯 Em busca de me tornar um **desenvolvedor full stack de alto nível**  
+📚 Estudante do curso integrado ao ensino médio de Técnico em TI no **IFPR - Paranaguá**  
+🎯 Em busca de me tornar um **desenvolvedor full stack de alto nível**.  
 
 ---
 
