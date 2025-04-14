@@ -1,4 +1,4 @@
-# 💻 Leonardo Ri
+# 💻 Leonardo Rib
 
 🚀 Desenvolvedor apaixonado por tecnologia, inovação e performance!  
 📍 Trabalho na InfoTech - Soluções em Tecnologia  
