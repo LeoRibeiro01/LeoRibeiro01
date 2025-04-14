@@ -1,4 +1,4 @@
-# 💻 Leonardo Ribeir
+# 💻 Leonardo Ribeiro
 
 🚀 Desenvolvedor apaixonado por tecnologia, inovação e performance!  
 📍 Trabalho na InfoTech - Soluções em Tecnologia  
