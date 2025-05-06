@@ -16,9 +16,7 @@
 
 ## 🏋️‍♂️ Sobre mim  
 💻 Focado em criar soluções eficientes, escaláveis e intuitivas  
-⚡ Praticante de Muay Thai, corredor e entusiasta do mundo fitness  
 🌍 Buscando crescimento profissional e oportunidades internacionais  
-
 📌 Atualmente desenvolvendo o **MyService**, um marketplace ágil para conectar clientes e prestadores de serviço  
 
 ---
