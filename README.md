@@ -17,8 +17,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-
 ## 👋 About me
 
 <div align="left" style="display:flex; flex-wrap:wrap; gap:16px; margin: 20px 0;">
