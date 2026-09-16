@@ -18,9 +18,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeoRibeiro01&label=profile%20views&color=1E2761&style=flat-square" alt="Profile views" />
-</p>
 
 ## 👋 About me
 
